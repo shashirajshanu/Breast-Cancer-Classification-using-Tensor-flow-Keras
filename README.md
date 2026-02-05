@@ -4,18 +4,21 @@ This project focuses on classifying breast cancer cases as benign or malignant u
 
 The model is implemented using Python and the TensorFlow–Keras API for building and training a neural network. Data preprocessing, splitting, and evaluation are performed using NumPy, Pandas, and Scikit-learn.
 
-**Technologies Used**
-Python
-TensorFlow & Keras
-NumPy
-Pandas
-Scikit-learn
-Google Colab
+**Technologies Used**:
+Python,
+TensorFlow & Keras,
+NumPy,
+Pandas,
+Scikit-learn,
+Google Colab.
 
-**How to Run**
-Open the provided Google Colab notebook link
-Run all cells sequentially
-Observe training accuracy, loss, and classification results
+**How to Run**:
 
-**Objective**
+1.Open the provided Google Colab notebook link
+
+2.Run all cells sequentially
+
+3.Observe training accuracy, loss, and classification results
+
+**Objective**:
 To demonstrate practical application of machine learning concepts for healthcare-related data classification.
